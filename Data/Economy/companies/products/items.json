@@ -1,0 +1,10 @@
+{
+  "products":
+  [
+    {
+      "product":"food",
+      "currentCost":3,
+      "originalCost":3
+    }
+  ]
+}

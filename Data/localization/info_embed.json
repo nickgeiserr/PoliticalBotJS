@@ -1,0 +1,11 @@
+{
+  "basic_info_embed_field_one_name": "What is this?",
+  "basic_info_embed_field_one_val": "This is a political experiment where we are trying to **simulate** society. Using things like a functioning economy with jobs and shops to buy things, a democratic government, and freedom for users to do what they would like, we are effectively simulating society...but on discord. ",
+  "basic_info_embed_field_two_name": "How can I join?",
+  "basic_info_embed_field_two_val": "Well, if you have already registered (which you probably have) you are already in! You can go about and get a job and make your way up in society.",
+  "hcij_value": "Well, if you have already registered( which you probably have ) you are already in! You can go about and get a job and make your way up in society.",
+  "council_value": "The government is a group of society that put laws in place, set up a tax system, and pay for emergency services. It consists of one branch known as **Council** they will make decisions on laws to put in place and make sure that society is running good as a whole",
+  "president_value": "The President is the main man, they are the one that gets the final say on laws to be put-in-place and also is the main voice for the entirety of government. If the government ever needs to say something, chances are you will hear it from the President",
+  "election_value": "This is how you get a job within the Government, via Election. Elections will periodically happen and users will be able to run for said job. If it is the president, it is a big deal. President is the job that all people want and winning is a challenging task. After everyone applies we will post the list, and everyone will vote for who they like the best ( No voting for yourself ) and we will choose the top 3. Those top 3 are the candidates for the election. Determining who wins tie-breakers is done with an in-house system that we are not ready to reveal to people. One thing to keep in mind, we do keep track of how many issues or bugs people have reported involving the bot. Good karma for elections! If you ever find a issue use /bug-report { issue } ",
+  "start_value": "This will begin the voting phase of the election."
+}

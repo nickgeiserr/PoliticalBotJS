@@ -1,0 +1,27 @@
+{
+    "name": "whatever the name is",
+    "owner": "owners id",
+    "employees": [
+        "array",
+        "of",
+        "id's"
+    ],
+    "products": [
+        {
+            "name": "product name",
+            "amount": "amount they have",
+            "price": "price of it"
+        },
+        {
+            "name": "product name",
+            "amount": "amount they have",
+            "price": "price of it"
+        },
+        {
+            "name": "product name",
+            "amount": "amount they have",
+            "price": "price of it"
+        }
+    ],
+    "funds": 0
+}
